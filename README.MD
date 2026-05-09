@@ -15,4 +15,4 @@ Smart Library Management Backend using FastAPI + MongoDB
 
 ## Run Project
 
-uvicorn app.main:app --reload
+uvicorn main:app --reload
